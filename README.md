@@ -15,7 +15,7 @@ This code repository provides a Python script that takes an MRI image as input, 
 * `output_file`: Path to save the output 3D mesh file (required)
 
 ### Example
-python lung_segmentation.py input_mri_image.nii.gz output_mesh.ply
+python lung_mesh.py input_image output_mesh.ply
 
 **Code Structure**
 -----------------
