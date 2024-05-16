@@ -36,15 +36,10 @@ The code is organized into the following functions:
 * NumPy
 * VTK
 
-**License**
--------
-
-This code is licensed under the MIT License.
-
 **Author**
 ------
 
-[Your Name]
+[Karan Kumar]
 
 **Acknowledgments**
 -------------------
